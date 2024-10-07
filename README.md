@@ -1,3 +1,15 @@
+
+![Screenshot 2024-10-07 155331](https://github.com/user-attachments/assets/24157078-aedc-43db-a0ee-0578e567cd21)
+
+![Screenshot 2024-10-07 155344](https://github.com/user-attachments/assets/cd971cb5-bec4-46b4-9c27-d4aa25682776)
+
+![Screenshot 2024-10-07 155400](https://github.com/user-attachments/assets/fedc3304-a5de-42bd-997e-c9e2f644e723)
+
+![Screenshot 2024-10-07 155409](https://github.com/user-attachments/assets/7455e05d-7849-4156-9e4d-a7ef57be5cd4)
+
+
+
+
 Roxiler System Assessment Frontend-Backend
 Backend Task Data Source THIRD PARTY API URL : https://s3.amazonaws.com/roxiler.com/product_transaction.json REQUEST METHOD : GET RESPONSE FORMAT : JSON
 
